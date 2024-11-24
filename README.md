@@ -1,6 +1,6 @@
 # **DesTemp QQ Github版**
 
-##特性⚡
+## 特性⚡
 
 在这里，我们使用了Lite Loader QQ NT来作为插件加载器
 
