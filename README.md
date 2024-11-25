@@ -37,6 +37,8 @@ Python 3以上的版本 ***(DesTemp QQ 4.0.0以上的版本可能需要这个环
 
 这里我们支持Github与QQ两种平台。
 
+压缩文件密码：destempqq ***(DesTemp QQ 4.0.0版本以上的安装压缩包都会有这个密码)***
+
 如果你是Github使用者请参见此连接：[DesTemp QQ Github下载连接](https://github.com/Drumda/DesTemp-QQ/releases/tag/Recode "DesTemp QQ Github下载连接")
 
 如果你有一个QQ账号，请加入QQ群：963637111
