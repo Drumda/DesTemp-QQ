@@ -50,6 +50,7 @@ Python 3以上的版本 ***(DesTemp QQ 4.0.0以上的版本可能需要这个环
 作者Github账号访问连接：[Github访问连接](https://github.com/Drumda "Github访问连接")
 
 ## 开发人员&鸣谢
+
 ***开发人员：***
 
 UI及代码:Little fallacy **(Drumda - UI&代码)**、Ain **(背归鸿 - 代码)**
@@ -61,11 +62,13 @@ UI及代码:Little fallacy **(Drumda - UI&代码)**、Ain **(背归鸿 - 代码)
 Python代码开发：Little fallacy **(Drumda)**
 
 ***鸣谢***
+
 LiteLoaderQQNT **(提供插件加载环境)**
 
 豆包AI **(Python代码修复与转换)**
 
 Nanxing Snake **(帮助寻找开发库)**
+
 ## **截图展示**
 ![QQ20241124-141705](https://github.com/user-attachments/assets/cbb6ca41-f353-4efa-bbf3-f84b6bf03bc2)
 ![QQ20241124-141701](https://github.com/user-attachments/assets/83eca986-42cb-4662-8726-88035807312f)
